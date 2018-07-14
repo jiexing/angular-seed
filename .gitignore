@@ -1,0 +1,7 @@
+.awcache/
+node_modules/
+vendor/vendor.map
+vendor/vendor.js
+vendor/vendor-manifest.json
+yarn.lock
+package-lock.json
